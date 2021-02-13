@@ -9,15 +9,15 @@
 ## Install Using ZIP File
 
 1. Download the latest ZIP file from the [release](https://github.com/BetaTester41/BIM-Help/releases/) page.
-2. Extract the file to somewhere easy to access 
+2. Extract the file to somewhere easy to access
 **Warning: Do not delete this folder after the install; Chrome will disable BIM-Help if this folder is not in the expected location**
 3. In your Chrome Browser menu, click `Windows > Extensions` or type `chrome://extensions/` in the address bar
 4. Check the `Developer Mode` checkbox
 5. Click the `Load unpacked extension` button and navigate to the folder you downloaded in step 1.
 
-* Note that each time you restart Chrome you will be prompted to `Disable Developer Mode Extensions`. Feel free to simply hit `Cancel` and continue.
+* Note that each time you restart Chrome you will be prompted to `Disable Developer Mode Extensions`. Feel free to simply hit `X` and continue.
 
-![](https://cloud.githubusercontent.com/assets/27123/21674871/5041d6c6-d338-11e6-9112-9dcebb5553e6.png)
+<img src="https://cdn.techjourney.net/2020/05/chrome-disable-dev-mode-extensions.png" height="193"/>
 
 ## Remove Developer Popup
 
@@ -42,12 +42,12 @@ Note: you may need to update the extension-id for newer versions of BIM-Help
 
 ## Keeping the Extension Updated
 
-### **For Chrome Enterprise / Edge Chromium users:**
+### **For Chrome Enterprise / Chromium users:**
 
 If you add the following Key\'s to the HKLM or HKCU, no other actions need to be taken to install BIM-Help
 
 `[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist]
-"1"="EXTENSION_ID HERE;https://rednoise.org/adnauseam/updates.xml"`
+"1"="EXTENSION_ID HERE;XML_COMING_SOON"`
 
 For the Edge Beta you can set the same key in this location.
 
@@ -56,4 +56,3 @@ For the Edge Beta you can set the same key in this location.
 For the Brave Browser you can set the same key here:
 
 `[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\BraveSoftware\Brave\ExtensionInstallForcelist]`
-
