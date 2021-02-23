@@ -46,4 +46,4 @@ This is a Chrome Extension that you can\'t get on the Web Store. It helps you ge
 ## Credits
 Umm... I don\'t see anyone other than me here 😂
 ## License
-This project is provided for educational purposes only and associated with Big Ideas.
+This project is provided for educational purposes only and associated with Big Ideas. Read the License file for more information
