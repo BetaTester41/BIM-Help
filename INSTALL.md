@@ -1,6 +1,6 @@
 # Installation Instructions
 
-## Installing using CRX File
+## Installing using CRX File (For Enterprise Users Only)
 
 1. Download the CRX file from the [release](https://github.com/BetaTester41/BIM-Help/releases/) page.
 2. Drag and drop the file to `chrome://extension` page.
@@ -17,11 +17,11 @@
 
 * Note that each time you restart Chrome you will be prompted to `Disable Developer Mode Extensions`. Feel free to simply hit `X` and continue.
 
-<img src="https://cdn.techjourney.net/2020/05/chrome-disable-dev-mode-extensions.png" height="193"/>
+<img src="https://cdn.techjourney.net/2020/05/chrome-disable-dev-mode-extensions.png" height="193"/>  <br />
+# Troubleshooting
+ **Warning: The following is for advanced Windows users only! Improperly editing the registry can result in a unstable system!**
 
 ## Remove Developer Popup
-
-*NOTE: For advanced Windows users only: improperly editing the registry can result in serious system problems*
 
 If you see the following message: “This extension is not listed in the Chrome Web Store and may have been added without your knowledge”, follow the steps below to use BIM-Help without enabling Developer Mode.
 
@@ -35,8 +35,7 @@ If you see the following message: “This extension is not listed in the Chrome 
 
 5. Create a new string value for this key called “1” (or any number higher than what is already there) and set it to the extension-id you found on step 1.
 
-6. Restart chrome.
-
+6. Restart Chrome.
 
 Note: you may need to update the extension-id for newer versions of BIM-Help
 

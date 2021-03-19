@@ -15,7 +15,7 @@ This is a Chrome Extension that you can\'t get on the Web Store. It helps you ge
     <td>
       <span></span>
       <a href="#">
-        👨‍💻 Unsigned CRX (Only for testing)
+        👨‍💻 CRX (For Enterprise Use only)
       </a> |
       <a href="#">
         📦 Source Code Zip (For regular users)
@@ -27,8 +27,6 @@ This is a Chrome Extension that you can\'t get on the Web Store. It helps you ge
     </td>
   </tr>
 </table>
-
-<hr />
 
 ## Questions
 
@@ -46,4 +44,4 @@ This is a Chrome Extension that you can\'t get on the Web Store. It helps you ge
 ## Credits
 Umm... I don\'t see anyone other than me here 😂
 ## License
-This project is provided for educational purposes only and associated with Big Ideas. Read the License file for more information
+This project is provided for educational purposes only and is not associated with Big Ideas. Read the License file for more information
