@@ -1,0 +1,39 @@
+{
+  "name": "Big Ideas Math Anwsers (Prototype)",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Get Big Ideas Math anwsers at ONE click! (Prototype, Geometry Only)",
+  "browser_action": {
+    "default_icon": {
+      "16": "icons/icon16x16.png",
+      "32": "icons/icon32x32.png",
+      "48": "icons/icon48x48.png",
+      "128": "icons/icon128x128.png"
+    },
+    "default_title": "Math Helper"
+  },
+  "icons": {
+    "16": "icons/icon16x16.png",
+    "32": "icons/icon32x32.png",
+    "48": "icons/icon48x48.png",
+    "128": "icons/icon128x128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://static.bigideasmath.com/protected/content/dc_cc_hs/apt/images/*"],
+      "css": ["math.css"],
+      "run_at": "document_start",
+      "all_frames": true
+    },
+    {
+      "matches": ["*://www.bigideasmath.com/BIM/student/assignment*"],
+      "js": ["main.js"],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ],
+  "permissions": ["*://*.bigideasmath.com/*"],
+  "web_accessible_resources":[
+     "inject.js"
+  ]
+}

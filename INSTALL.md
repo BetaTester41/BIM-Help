@@ -1,14 +1,8 @@
 # Installation Instructions
 
-## Installing using CRX File (For Enterprise Users Only)
-
-1. Download the CRX file from the [release](https://github.com/BetaTester41/BIM-Help/releases/) page.
-2. Drag and drop the file to `chrome://extension` page.
-3. Done
-
 ## Install Using ZIP File
 
-1. Download the latest ZIP file from the [release](https://github.com/BetaTester41/BIM-Help/releases/) page.
+1. Download the latest ZIP file from the [release page](https://github.com/BetaTester41/BIM-Help/releases/latest) or from the [dev page](https://github.com/BetaTester41/BIM-Help/archive/refs/heads/main.zip).
 2. Extract the file to somewhere easy to access
 **Warning: Do not delete this folder after the install; Chrome will disable BIM-Help if this folder is not in the expected location**
 3. In your Chrome Browser menu, click `Windows > Extensions` or type `chrome://extensions/` in the address bar

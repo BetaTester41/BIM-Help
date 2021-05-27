@@ -14,11 +14,11 @@ This is a Chrome Extension that you can\'t get on the Web Store. It helps you ge
     </td>
     <td>
       <span></span>
-      <a href="#">
-        👨‍💻 CRX (For Enterprise Use only)
+      <a href="https://github.com/BetaTester41/BIM-Help/archive/refs/heads/main.zip">
+        👨‍💻 Latest Dev Release
       </a> |
-      <a href="#">
-        📦 Source Code Zip (For regular users)
+      <a href="https://github.com/BetaTester41/BIM-Help/releases/latest">
+        📦 Latest Stable Release (For regular users)
       </a>
       <br />
       <span>
