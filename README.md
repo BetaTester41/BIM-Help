@@ -18,11 +18,11 @@ This is a Chrome Extension that you can\'t get on the Web Store. It helps you ge
         👨‍💻 Latest Dev Release
       </a> |
       <a href="https://github.com/BetaTester41/BIM-Help/releases/latest">
-        📦 Latest Stable Release (For regular users)
+        📦 Latest Stable Release
       </a>
       <br />
       <span>
-        ❓ Have no idea which one? Just use the zip option just to be safe.
+        ❓ Don't know which one to use? Use Dev version for the latest features, and use the Stable version for a stable build.
       </span>
     </td>
   </tr>
