@@ -40,6 +40,7 @@ This is a Chrome Extension that you can\'t get on the Web Store. It helps you ge
 * The first question of every assignment does not work. (Workaround: Go to the second question and then back)
 * Does not with questions 100+ (Your teacher needs to assign less)
 * Does not work on quizzes, assessments, and benchmarks
+* Currently only works for the California Geomotery Book. 
 
 ## Credits
 Umm... I don\'t see anyone other than me here 😂
